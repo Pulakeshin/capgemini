@@ -1,0 +1,7 @@
+D:\gg\LABQ4\LABQ4\bin\Debug\LABQ4.exe.config
+D:\gg\LABQ4\LABQ4\bin\Debug\LABQ4.exe
+D:\gg\LABQ4\LABQ4\bin\Debug\LABQ4.pdb
+D:\gg\LABQ4\LABQ4\obj\Debug\LABQ4.csprojAssemblyReference.cache
+D:\gg\LABQ4\LABQ4\obj\Debug\LABQ4.csproj.CoreCompileInputs.cache
+D:\gg\LABQ4\LABQ4\obj\Debug\LABQ4.exe
+D:\gg\LABQ4\LABQ4\obj\Debug\LABQ4.pdb

@@ -1,0 +1,7 @@
+D:\gg\ABCPvtLtd\ABCPvtLtd\bin\Debug\ABCPvtLtd.exe.config
+D:\gg\ABCPvtLtd\ABCPvtLtd\bin\Debug\ABCPvtLtd.exe
+D:\gg\ABCPvtLtd\ABCPvtLtd\bin\Debug\ABCPvtLtd.pdb
+D:\gg\ABCPvtLtd\ABCPvtLtd\obj\Debug\ABCPvtLtd.csprojAssemblyReference.cache
+D:\gg\ABCPvtLtd\ABCPvtLtd\obj\Debug\ABCPvtLtd.csproj.CoreCompileInputs.cache
+D:\gg\ABCPvtLtd\ABCPvtLtd\obj\Debug\ABCPvtLtd.exe
+D:\gg\ABCPvtLtd\ABCPvtLtd\obj\Debug\ABCPvtLtd.pdb
