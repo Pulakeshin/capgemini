@@ -1,0 +1,6 @@
+D:\gg\LAB2Q5\LAB2Q5\bin\Debug\LAB2Q5.exe.config
+D:\gg\LAB2Q5\LAB2Q5\bin\Debug\LAB2Q5.exe
+D:\gg\LAB2Q5\LAB2Q5\bin\Debug\LAB2Q5.pdb
+D:\gg\LAB2Q5\LAB2Q5\obj\Debug\LAB2Q5.csproj.CoreCompileInputs.cache
+D:\gg\LAB2Q5\LAB2Q5\obj\Debug\LAB2Q5.exe
+D:\gg\LAB2Q5\LAB2Q5\obj\Debug\LAB2Q5.pdb
